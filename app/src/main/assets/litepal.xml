@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="front"></dbname>
+
+    <version value="1"></version>
+    <list>
+        <mapping class="com.terry.app.front.bean.Article"></mapping>
+        <mapping class="com.terry.app.front.bean.ArticleDetail"></mapping>
+    </list>
+</litepal>
